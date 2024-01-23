@@ -1,0 +1,5382 @@
+.companyName{ 
+  font-weight: 700;
+  font-size: 90px; 
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+  background: linear-gradient(to right, #f32170, 
+          #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+} 
+.connectWalletBtn{
+  width: 180px;
+  height: 45px;
+  border: none;
+  background: linear-gradient(to right, rgb(255, 0, 200), orange);
+  /* text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff; */
+ 
+}
+.connectWalletBtn1{
+  color: black;
+  text-decoration: none;
+}
+.connectWalletBtn:hover {
+  background: linear-gradient(to right,orange rgb(255, 0, 200), red);
+  text-shadow: 0 0 10px #fff, 0 0 20px #ff0, 0 0 30px #ff0;
+}
+.OriNavBar{
+  
+  border-bottom: 5px solid;
+  border-image: linear-gradient(45deg, purple, orange) 1;
+}
+.rondo{
+  color: white !important;
+}
+.firstOne{
+  
+  background-image:  linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+  url("./img/Mask\ group\ \(1\).png");
+  /* background-image: url("./img/Mask\ group.png"); */
+  background-size: 90%;
+  text-align: center;
+}
+.navOptions{
+  color: white !important;
+  text-decoration: none;
+}
+.navOptions:hover{
+  border-bottom: 3px solid;
+  border-top: 3px solid;
+  border-radius: 205px;
+  border-image: linear-gradient(45deg, purple, orange) 1;
+}
+.intrdLuxeAuto{
+  color: white;
+  margin-top: 150px;
+}
+.intrdLuxeAuto1{
+  background: linear-gradient(to right, #f32170, 
+          #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+}
+.discvrTheEpitome{
+  background: linear-gradient(to right, #f32170, 
+  #ff6b08, #cf23cf, #eedd44); 
+-webkit-text-fill-color: transparent; 
+-webkit-background-clip: text; 
+font-weight: 900;
+font-size: 100px;
+}
+.explreTheExqui{
+  color: white;
+  font-weight: 300;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.exploreNow{
+  background: linear-gradient(to right, #f32170, 
+  #ff6b08, #cf23cf, #eedd44); 
+-webkit-text-fill-color: transparent; 
+-webkit-background-clip: text; 
+font-size: 40px;
+font-weight: 600;
+  border: 3px solid;
+  width: 400px;
+  margin-left: 700px;
+  border-image: linear-gradient(45deg, purple, orange) 1;
+}
+.gainingTrust{
+  display: flex;
+  background-color: rgb(15, 9, 28);
+  gap: 100px;
+  padding-left: 300px;
+  margin-top: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.secondBackgrnd{
+  background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+  url("./img/Zy\ 2.png");
+  background-size: 900px;
+  /* background-image: url("./img//Crypto-15.png"); */
+  /* background-image: url("./img/Mask\ group.png"); */
+  /* background-size: 850px; */
+  /* background-repeat: no-repeat;
+  background-position: right; */
+  background-color: black;
+  color: white;
+  padding-left: 200px;
+}
+.popop{
+  background-image: url("./img//Crypto-15.png"); 
+    background-size: 850px;
+    padding-bottom: 100px;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.featuredCars{
+  font-weight: 900;
+  font-size: 60px;
+  
+}
+.featuredCarsDivs{
+  border-bottom: 5px solid;
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  width: 490px;
+  margin-bottom: 15px;
+}
+.carPriceImg{
+  width: 410px;
+}
+
+.luxeAutoPartners{
+  background: linear-gradient(to right, #f32170, 
+  #ff6b08, #cf23cf, #eedd44); 
+-webkit-text-fill-color: transparent; 
+-webkit-background-clip: text; 
+font-size: 40px;
+font-weight: 600;
+}
+.partnerImg{
+  width: 200px;
+}
+.partnersDiv{
+  background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+  url("./img/Zy\ 2.png");
+  padding-top: 500px;
+  background-color: black;
+  padding-left: 200px;
+  background-size: 900px;
+}
+.partnersImgDiv{
+  margin-bottom: 10px;
+}
+.sellYourLuxuryCarsText{
+  font-weight: 800;
+  font-size: 50px;
+  margin-top: 400px;
+}
+.sellYourLuxuryCars{
+  background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+  url("./img/Zy\ 2.png");
+  background-size: 900px;
+  /* background-repeat: no-repeat;
+  background-position: center; */
+  margin-top: -10px;
+  color: white;
+  background-color: black;
+  display: flex;
+  gap: 100px;
+  padding-left: 200px;
+}
+.sellCarImg{
+  width: 700px;
+  margin-top: 200px;
+
+}
+.sellYourCarWords{
+  font-size: 25px;
+  font-weight: 200;
+}
+.getStarted{
+  background: linear-gradient(to right, #f32170, 
+  #ff6b08, #cf23cf, #eedd44); 
+-webkit-text-fill-color: transparent; 
+-webkit-background-clip: text; 
+font-size: 40px;
+font-weight: 600;
+  border: 3px solid;
+  width: 400px;
+  margin-top: 20px;
+  text-align: center;
+  border-image: linear-gradient(45deg, purple, orange) 1;
+}
+.needSupportDiv{
+  background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+  url("./img/Zy\ 2.png");
+  background-size: 900px;
+  padding-top: 400px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.needSupportWord1{
+  font-size: 55px;
+}
+.needSupportWord2{
+  font-weight: 200;
+}
+.contactDiv{
+  display: flex;
+  background-color: white;
+  color: black;
+  width: 350px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.contactDivFlex{
+  padding-left: 300px;
+  display: flex;
+  gap: 50px;
+  margin-top: 20px;
+}
+.horizontalLine{
+ background-color: rgb(148, 136, 136);
+  width: 1400px;
+  margin-top: 40px;
+  height: 5px;
+  margin-left: 200px;
+}
+.thingsWeDo{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  gap: 100px;
+  padding-left: 300px;
+  text-align: left;
+}
+.longNote{
+  margin-top: 20px;
+  font-weight: 300;
+}
+.Copyrighttt{
+  display: flex;
+  gap: 50px;
+  background-color: white;
+  color: black;
+  height: 100px;
+  padding-left: 550px;
+  padding-top: 40px;
+}
+.secondOne{
+  
+  background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+   url("./img/pexels-albin-berlin-919073\ 1.png");
+  /* background-image: url("./img/Mask\ group.png"); */
+  background-size: 90%;
+  text-align: center;
+}
+.aboutLuxeAutos{
+  background: linear-gradient(to right, #f32170, 
+  #ff6b08, #cf23cf, #eedd44); 
+-webkit-text-fill-color: transparent; 
+-webkit-background-clip: text; 
+font-weight: 900;
+font-size: 70px;
+margin-top: 150px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.highEndCllct{
+  color: white;
+  font-weight: 300;
+  font-size: 20px;
+  padding-bottom: 200px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.SecondBacgrdAbouUs{
+  background-image: url("./img/Crypto-11.png");
+  /* background-image: url("./img/Mask\ group.png"); */
+  background-size: 850px;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-color: black;
+  color: white;
+  margin-top: -10px;
+}
+.LuxeAutoChain{
+  font-weight: 300;
+  padding-left: 500px;
+  padding-right: 200px;
+  font-size: 30px;
+  padding-top: 80px;
+  padding-bottom: 380px;
+}
+.ourMissionCarsText{
+  font-weight: 800;
+  font-size: 50px;
+  margin-top: 40px;
+}
+.ourMissionCarImg{
+  width: 600px;
+  margin-top: -170px;
+
+}
+
+.OurMissionCars{
+  margin-top: -10px;
+  padding-top: 100px;
+  color: white;
+  background-color: black;
+  display: flex;
+  gap: 100px;
+  padding-left: 200px;
+}
+.OurMissionWords{
+  font-size: 18px;
+  font-weight: 200;
+}
+.ourMissionPartners{
+  background: linear-gradient(to right, #f32170, 
+  #ff6b08, #cf23cf, #eedd44); 
+-webkit-text-fill-color: transparent; 
+-webkit-background-clip: text; 
+font-size: 60px;
+font-weight: 600;
+}
+.divOfBoxes{
+ display: flex;
+ gap: 20px;
+  padding-left: 400px;
+  background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+  background-size: 900px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+  color: rgb(189, 185, 185);
+}
+.box1{
+height: 400px;
+width: 500px;
+border: none !important;
+padding-left: 20px;
+background: rgba(255, 255, 255, 0.04);
+border-radius: 20px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.2px);
+-webkit-backdrop-filter: blur(6.2px);
+border: 1px solid rgba(255, 255, 255, 0.22);
+}
+.ourValCarImg{
+  width: 400px;
+  margin-top: 20px;
+}
+.TransparencyWord{
+  background: linear-gradient(to right, #f32170, 
+  #ff6b08, #cf23cf, #eedd44); 
+-webkit-text-fill-color: transparent; 
+-webkit-background-clip: text; 
+font-size: 50px;
+font-weight: 600;
+}
+.TransparencyWord1{
+  font-weight: 400;
+  margin-top: 20px;
+  width: 450px;
+  font-size: 23px;
+}
+.JoinUsImg{
+  width: 1825px;
+  margin-top: -400px;
+}
+.JoinUSSiMg{
+  width: 1825px;
+}
+.JoinUsImgDiv{
+  background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+  url("./img/Zy\ 2.png");
+  background-size: 900px;
+  background-color: black;
+}
+.SeasonedLuxury{
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.52), rgba(0, 0, 0, 0.73)),
+  url("./img/pexels-kaique-rocha-242125\ 1.png");
+  /* background-size: 900px; */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: black;
+  color: white;
+}
+.SeasonedLuxuryText{
+  font-size: 40px;
+  font-weight: 500;
+}
+.needSupportDivAboutUs{
+  padding-top: 100px;
+  background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+  url("./img/Zy\ 2.png");
+  background-size: 900px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+Link{
+  color: white !important;
+}
+.ShineShineBg{
+  background-image: url("./img/Zy\ 2.png");
+  background-size: 900px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.HowLUXEAUTOSWorks{
+  background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+  url("./img/Zy\ 2.png");
+  background-size: 900px;
+  background-color: black;
+  color: white;
+  padding-bottom: 30px;
+  margin-top: -10px;
+  padding-left: 400px;
+  padding-top: 50px;
+}
+.OneBox{
+  width: 700px;
+  border-radius: 20px;
+  height: 70px;
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 10px;
+  background-color: rgb(207, 207, 207);
+  color: black;
+}
+.firstBox{
+  font-size: 40px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.OneNumBox{
+  padding-top: 10px;
+  text-align: center;
+  background-color: rgb(207, 207, 207);
+  color: black;
+  height: 70px;
+  width: 70px;
+  border-radius: 15px;
+}
+.HowLUXEAUTOSWorks2{
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+.HowItWorksTop{
+  margin-top: -10px;
+  padding-top: 100px;
+  color: white;
+  display: flex;
+  gap: 100px;
+  padding-left: 200px;
+}
+.HowItWorksTopCarImg{
+  width: 500px;
+  margin-top: -110px;
+
+}
+.HowLUXEAUTOSWorksrWords{
+  font-size: 25px;
+  font-weight: 400;
+}
+.ContctUsNavBg{
+  background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+  url("./img/pexels-kaique-rocha-242136\ 1.png");
+ /* background-image: url("./img/Mask\ group.png"); */
+ background-size: 90%;
+ text-align: center;
+}
+.welovedtoheardiv{
+  display: flex;
+}
+.wedLoveToHear{
+  padding-top: 100px;
+  background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+  url("./img/Zy\ 2.png");
+  background-size: 900px;
+  background-color: black;
+  color: white;
+  padding-left: 150px;
+  padding-bottom: 100px;
+  margin-top: -10px;
+  
+}
+.wedLoveToHearText{
+  background: linear-gradient(to right, #f32170, 
+  #ff6b08, #cf23cf, #eedd44); 
+-webkit-text-fill-color: transparent; 
+-webkit-background-clip: text; 
+font-size: 60px;
+font-weight: 600;
+}
+.wedLoveToHearText1{
+  font-size: 30px;
+  font-weight: 300;
+}
+.FullName{
+  text-transform: capitalize;
+  color: white;
+  font-size: 30px;
+  margin-top: 10px;
+  width: 500px;
+  height: 80px;
+  border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+  background: rgba(255, 255, 255, 0.04);
+margin-right: 10px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.2px);
+-webkit-backdrop-filter: blur(6.2px);
+border-image: linear-gradient(45deg, purple, orange) 1;
+border-radius: 10px !important;
+
+}
+.TicId{
+  font-size: 30px;
+  color: white;
+  width: 284px;
+  height: 80px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.04);
+border-radius: 20px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.2px);
+-webkit-backdrop-filter: blur(6.2px);
+border-image: linear-gradient(45deg, purple, orange) 1;
+
+}
+.Subject{
+  text-transform: capitalize;
+  font-size: 30px;
+  color: white;
+  height: 80px;
+  border-radius: 10px;
+  width: 800px;
+  margin-top: 20px;
+  background: rgba(255, 255, 255, 0.04);
+border-radius: 20px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.2px);
+-webkit-backdrop-filter: blur(6.2px);
+border-image: linear-gradient(45deg, purple, orange) 1;
+
+}
+.Subject1{
+  text-transform: capitalize;
+  color: white;
+  font-size: 30px;
+  margin-top: 10px;
+  width: 500px;
+  height: 80px;
+  border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+  background: rgba(255, 255, 255, 0.04);
+margin-right: 10px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.2px);
+-webkit-backdrop-filter: blur(6.2px);
+border-image: linear-gradient(45deg, purple, orange) 1;
+border-radius: 10px !important;
+}
+::placeholder{
+  font-size: 30px;
+  padding-left: 20px;
+  color: rgb(231, 230, 230);
+font-weight: 500;
+}
+.contactDivFlex2{
+  padding-left: 100px;
+  display: grid;
+  gap: 20px;
+  margin-top: px;
+}
+.contactDiv2{
+  display: flex;
+  /* color: white; */
+  width: 350px;
+  padding: 10px;
+  border-radius: 10px;
+ border: 3px solid ;
+ border-radius: 20px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.2px);
+-webkit-backdrop-filter: blur(6.2px);
+ border-image: linear-gradient(45deg, purple, orange) 1;
+}
+.contactInnfo{
+  background: linear-gradient(to right, #f32170, 
+  #ff6b08, #cf23cf, #eedd44); 
+-webkit-text-fill-color: transparent; 
+-webkit-background-clip: text; 
+font-size: 20px;
+font-weight: 400;
+}
+
+
+
+@media screen and (max-width :1440px) {
+  .exploreNow{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 40px;
+  font-weight: 600;
+    border: 3px solid;
+    width: 400px;
+    margin-left: 500px;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .gainingTrust{
+    display: flex;
+    background-color: rgb(15, 9, 28);
+    gap: 100px;
+    padding-left: 100px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .secondBackgrnd{
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 100px;
+  }
+  .sellCarImg{
+    width: 600px;
+    margin-top: 200px;
+  }
+  .featuredCars{
+    font-weight: 900;
+    font-size: 45px;
+  }
+  .carPriceImg{
+    width: 400px;
+  }
+  .partnersDiv{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    padding-top: 500px;
+    background-color: black;
+    padding-left: 100px;
+    background-size: 900px;
+  }
+  .sellYourLuxuryCars{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    margin-top: -10px;
+    color: white;
+    background-color: black;
+    display: flex;
+    gap: 80px;
+    padding-left: 100px;
+  }
+  .contactDivFlex{
+    padding-left: 180px;
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+  }
+  .contactDiv{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 320px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .horizontalLine{
+    background-color: rgb(148, 136, 136);
+     width: 1300px;
+     margin-top: 40px;
+     height: 5px;
+     margin-left: 70px;
+   }
+   .thingsWeDo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 100px;
+    padding-left: 170px;
+    text-align: left;
+  }
+  .Copyrighttt{
+    display: flex;
+    gap: 50px;
+    background-color: white;
+    color: black;
+    height: 100px;
+    padding-left: 350px;
+    padding-top: 40px;
+  }
+  .secondOne{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+     url("./img/pexels-albin-berlin-919073\ 1.png");
+    background-size: cover;
+    text-align: center;
+  }
+  .SecondBacgrdAbouUs{
+    background-image: url("./img/Crypto-11.png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+    color: white;
+    margin-top: -10px;
+  }
+  .LuxeAutoChain{
+    font-weight: 300;
+    padding-left: 450px;
+    padding-right: 200px;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 380px;
+  }
+  .OurMissionCars{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    display: flex;
+    gap: 100px;
+    padding-left: 100px;
+  }
+  .ourMissionCarImg{
+    width: 500px;
+    margin-top: -170px;
+  }
+  .divOfBoxes{
+    display: flex;
+    gap: 20px;
+     padding-left: 210px;
+     background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+     background-size: 900px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+     color: rgb(189, 185, 185);
+   }
+   .JoinUsImg{
+    width: 1423px;
+    margin-top: -330px;
+  }
+  .JoinUSSiMg{
+    width: 1423px;
+  }
+  .SeasonedLuxuryText{
+    font-size: 35px;
+    font-weight: 400;
+  }
+  .HowItWorksTop{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    display: flex;
+    gap: 100px;
+    padding-left: 100px;
+  }
+  .HowItWorksTopCarImg{
+    width: 400px;
+    margin-top: -110px;
+  
+  }
+  .HowLUXEAUTOSWorks{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    padding-left: 250px;
+    padding-top: 50px;
+  }
+  .OneBox{
+    width: 650px;
+    border-radius: 20px;
+    height: 70px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(207, 207, 207);
+    color: black;
+  }
+  .firstBox{
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .ContctUsNavBg{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242136\ 1.png");
+   /* background-image: url("./img/Mask\ group.png"); */
+   background-size: cover;
+   text-align: center;
+  }
+  .wedLoveToHearText{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 50px;
+  font-weight: 600;
+  }
+  .wedLoveToHearText1{
+    font-size: 25px;
+    font-weight: 300;
+  }
+  .FullName{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 350px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  
+  }
+  .TicId{
+    font-size: 30px;
+    color: white;
+    width: 234px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    width: 600px;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 500px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  }
+  ::placeholder{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(231, 230, 230);
+  font-weight: 500;
+  }
+  .welovedtoheardiv{
+    display: flex;
+  }
+}
+
+@media screen and (max-width :1280px) {
+  .exploreNow{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 40px;
+  font-weight: 600;
+    border: 3px solid;
+    width: 400px;
+    margin-left: 400px;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .gainingTrust{
+    display: flex;
+    background-color: rgb(15, 9, 28);
+    gap: 100px;
+    padding-left: 50px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .secondBackgrnd{
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 100px;
+  }
+  .sellCarImg{
+    width: 600px;
+    margin-top: 200px;
+  }
+  .featuredCars{
+    font-weight: 900;
+    font-size: 45px;
+  }
+  .carPriceImg{
+    width: 350px;
+  }
+  .featuredCarsDivs{
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+    width: 410px;
+    margin-bottom: 15px;
+  }
+  .partnersDiv{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    padding-top: 500px;
+    background-color: black;
+    padding-left: 100px;
+    background-size: 900px;
+  }
+  .partnerImg{
+    width: 180px;
+  }
+  .sellYourLuxuryCars{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    margin-top: -10px;
+    color: white;
+    background-color: black;
+    display: flex;
+    gap: 50px;
+    padding-left: 100px;
+  }
+  .sellYourLuxuryCarsText{
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 400px;
+  }
+  .sellYourCarWords{
+    font-size: 20px;
+    font-weight: 300;
+  }
+  .needSupportWord1{
+    font-size: 50px;
+  }
+  .contactDivFlex{
+    padding-left: 120px;
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+  }
+  .contactDiv{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .horizontalLine{
+    background-color: rgb(148, 136, 136);
+     width: 1150px;
+     margin-top: 40px;
+     height: 5px;
+     margin-left: 60px;
+   }
+   .thingsWeDo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 100px;
+    padding-left: 120px;
+    text-align: left;
+  }
+  .Copyrighttt{
+    display: flex;
+    gap: 50px;
+    background-color: white;
+    color: black;
+    height: 100px;
+    padding-left: 290px;
+    padding-top: 40px;
+  }
+  .secondOne{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+     url("./img/pexels-albin-berlin-919073\ 1.png");
+    background-size: cover;
+    text-align: center;
+  }
+  .SecondBacgrdAbouUs{
+    background-image: url("./img/Crypto-11.png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+    color: white;
+    margin-top: -10px;
+  }
+  .LuxeAutoChain{
+    font-weight: 300;
+    padding-left: 450px;
+    padding-right: 200px;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 380px;
+  }
+  .OurMissionCars{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    display: flex;
+    gap: 100px;
+    padding-left: 100px;
+  }
+  .ourMissionCarImg{
+    width: 500px;
+    margin-top: -170px;
+  }
+  .divOfBoxes{
+    display: flex;
+    gap: 20px;
+     padding-left: 110px;
+     background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+     background-size: 900px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+     color: rgb(189, 185, 185);
+   }
+   .JoinUsImg{
+    width: 1263px;
+    margin-top: -280px;
+  }
+  .JoinUSSiMg{
+    width: 1262px;
+  }
+  .SeasonedLuxuryText{
+    font-size: 35px;
+    font-weight: 400;
+  }
+  .ourMissionPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 50px;
+  font-weight: 600;
+  }
+  .HowLUXEAUTOSWorksrWords{
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .HowItWorksTop{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    display: flex;
+    gap: 100px;
+    padding-left: 100px;
+  }
+  .HowItWorksTopCarImg{
+    width: 400px;
+    margin-top: -110px;
+  
+  }
+  .HowLUXEAUTOSWorks{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    padding-left: 200px;
+    padding-top: 50px;
+  }
+  .OneBox{
+    width: 630px;
+    border-radius: 20px;
+    height: 70px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(207, 207, 207);
+    color: black;
+  }
+  .firstBox{
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .ContctUsNavBg{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242136\ 1.png");
+   /* background-image: url("./img/Mask\ group.png"); */
+   background-size: cover;
+   text-align: center;
+  }
+  .wedLoveToHear{
+    padding-top: 100px;
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    
+  }
+  .wedLoveToHearText{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 50px;
+  font-weight: 600;
+  }
+  .wedLoveToHearText1{
+    font-size: 25px;
+    font-weight: 300;
+  }
+  .FullName{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 350px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  
+  }
+  .TicId{
+    font-size: 30px;
+    color: white;
+    width: 234px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    width: 600px;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 500px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  }
+  ::placeholder{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(231, 230, 230);
+  font-weight: 500;
+  }
+  .welovedtoheardiv{
+    display: flex;
+  }
+}
+
+@media screen and (max-width :1024px) {
+  .discvrTheEpitome{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-weight: 900;
+  font-size: 70px;
+  }
+  .exploreNow{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 40px;
+  font-weight: 600;
+    border: 3px solid;
+    width: 400px;
+    margin-left: 300px;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .gainingTrust{
+    display: flex;
+    background-color: rgb(15, 9, 28);
+    gap: 60px;
+    padding-left: 20px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .secondBackgrnd{
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 100px;
+  }
+  .sellCarImg{
+    width: 550px;
+    margin-top: 300px;
+  }
+  .featuredCars{
+    font-weight: 900;
+    font-size: 40px;
+  }
+  .carPriceImg{
+    width: 290px;
+    padding-bottom: 200px;
+  }
+  .featuredCarsDivs{
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+    width: 370px;
+    margin-bottom: 15px;
+  }
+  .partnersDiv{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    padding-top: 200px;
+    background-color: black;
+    padding-left: 60px;
+    background-size: 900px;
+  }
+  .partnerImg{
+    width: 150px;
+  }
+  .sellYourLuxuryCars{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    margin-top: -10px;
+    color: white;
+    background-color: black;
+    display: flex;
+    gap: 1px;
+    padding-left: 60px;
+  }
+  .sellYourLuxuryCarsText{
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 400px;
+  }
+  .sellYourCarWords{
+    font-size: 20px;
+    font-weight: 300;
+  }
+  .needSupportWord1{
+    font-size: 45px;
+  }
+  .contactDivFlex{
+    padding-left: 40px;
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+  }
+  .contactDiv{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 280px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .horizontalLine{
+    background-color: rgb(148, 136, 136);
+     width: 970px;
+     margin-top: 40px;
+     height: 5px;
+     margin-left: 30px;
+   }
+   .thingsWeDo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 60px;
+    padding-left: 60px;
+    text-align: left;
+  }
+  .Copyrighttt{
+    display: flex;
+    gap: 30px;
+    background-color: white;
+    color: black;
+    height: 100px;
+    padding-left: 190px;
+    padding-top: 40px;
+  }
+  .longNote{
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: 200;
+  }
+  .secondOne{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+     url("./img/pexels-albin-berlin-919073\ 1.png");
+    background-size: cover;
+    text-align: center;
+  }
+  .SecondBacgrdAbouUs{
+    background-image: url("./img/Crypto-11.png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+    color: white;
+    margin-top: -10px;
+  }
+  .LuxeAutoChain{
+    font-weight: 300;
+    padding-left: 400px;
+    padding-right: 80px;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 350px;
+  }
+  .OurMissionCars{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    display: flex;
+    gap: 50px;
+    padding-left: 60px;
+  }
+  .ourMissionCarImg{
+    width: 500px;
+    margin-top: -120px;
+  }
+  .divOfBoxes{
+    display: flex;
+    gap: 20px;
+     padding-left: 80px;
+     background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+     background-size: 700px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+     color: rgb(189, 185, 185);
+   }
+   .box1{
+    height: 400px;
+    width: 420px;
+    border: none !important;
+    padding-left: 20px;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    }
+    .TransparencyWord{
+      background: linear-gradient(to right, #f32170, 
+      #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 45px;
+    font-weight: 600;
+    }
+    .TransparencyWord1{
+      font-weight: 400;
+      margin-top: 20px;
+      width: 350px;
+      font-size: 23px;
+    }
+   .JoinUsImg{
+    width: 1009px;
+    margin-top: -220px;
+  }
+  .JoinUSSiMg{
+    width: 1009px;
+  }
+  .SeasonedLuxuryText{
+    font-size: 35px;
+    font-weight: 400;
+  }
+  .ourMissionPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 50px;
+  font-weight: 600;
+  }
+  .HowLUXEAUTOSWorksrWords{
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .HowItWorksTop{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    display: flex;
+    gap: 20px;
+    padding-left: 70px;
+  }
+  .HowItWorksTopCarImg{
+    width: 400px;
+    margin-top: -70px;
+  
+  }
+  .HowLUXEAUTOSWorks{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    padding-left: 100px;
+    padding-top: 50px;
+  }
+  .OneBox{
+    width: 610px;
+    border-radius: 15px;
+    height: 65px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(207, 207, 207);
+    color: black;
+  }
+  .OneNumBox{
+    padding-top: 10px;
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+    color: black;
+    height: 65px;
+    width: 70px;
+    border-radius: 15px;
+  }
+  .firstBox{
+    font-size: 33px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .ContctUsNavBg{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242136\ 1.png");
+   /* background-image: url("./img/Mask\ group.png"); */
+   background-size: cover;
+   text-align: center;
+  }
+  .wedLoveToHear{
+    padding-top: 100px;
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 60px;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    
+  }
+  .wedLoveToHearText{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 43px;
+  font-weight: 600;
+  }
+  .wedLoveToHearText1{
+    font-size: 23px;
+    font-weight: 300;
+  }
+  .contactDivFlex2{
+    padding-left: 30px;
+    display: grid;
+    gap: 20px;
+    margin-top: px;
+  }
+  .FullName{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 300px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  
+  }
+  .TicId{
+    font-size: 30px;
+    color: white;
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    width: 518px;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 500px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  }
+  ::placeholder{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(231, 230, 230);
+  font-weight: 500;
+  }
+  .welovedtoheardiv{
+    display: flex;
+  }
+}
+
+@media screen and (max-width :834px) {
+  .discvrTheEpitome{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-weight: 900;
+  font-size: 65px;
+  }
+  .explreTheExqui{
+    color: white;
+    font-weight: 300;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .exploreNow{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 40px;
+  font-weight: 600;
+    border: 3px solid;
+    width: 400px;
+    margin-left: 210px;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .sevenStarImg{
+    width: 60px;
+    height: 80px;
+  }
+  .gainingTrust{
+    display: flex;
+    background-color: rgb(15, 9, 28);
+    gap: 10px;
+    padding-left: 10px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .secondBackgrnd{
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 50px;
+  }
+  .sellCarImg{
+    width: 600px;
+   margin-top: -50px;
+  }
+  .featuredCars{
+    font-weight: 900;
+    font-size: 34px;
+  }
+  .carPriceImg{
+    width: 230px;
+    padding-bottom: 200px;
+  }
+  .popop{
+    background-image: url("./img//Crypto-15.png"); 
+      background-size: 680px;
+      padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  .featuredCarsDivs{
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+    width: 310px;
+    margin-bottom: 15px;
+    padding-top: 40px;
+  }
+  .partnersDiv{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    padding-top: 200px;
+    background-color: black;
+    padding-left: 60px;
+    background-size: 900px;
+  }
+  .partnerImg{
+    width: 120px;
+  }
+  .sellYourLuxuryCars{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    margin-top: -10px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 1px;
+    padding-left: 100px;
+  }
+  .sellYourLuxuryCarsText{
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 400px;
+  }
+  .sellYourCarWords{
+    font-size: 25px;
+    font-weight: 300;
+  }
+  .needSupportWord1{
+    font-size: 35px;
+  }
+  .needSupportWord2{
+    font-weight: 200;
+    font-size: 20px;
+  }
+  .contactDivFlex{
+    padding-left: 270px;
+    display: grid;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .contactDiv{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 320px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .horizontalLine{
+    background-color: rgb(148, 136, 136);
+     width: 740px;
+     margin-top: 40px;
+     height: 5px;
+     margin-left: 30px;
+   }
+   .thingsWeDo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 28px;
+    padding-left: 30px;
+    text-align: left;
+  }
+  .Copyrighttt{
+    display: flex;
+    gap: 30px;
+    background-color: white;
+    color: black;
+    height: 100px;
+    padding-left: 70px;
+    padding-top: 40px;
+  }
+  .longNote{
+    font-size: 20px;
+    padding-left: 30px;
+    margin-top: 20px;
+    font-weight: 200;
+    width: 720px;
+  }
+  .secondOne{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+     url("./img/pexels-albin-berlin-919073\ 1.png");
+    background-size: cover;
+    text-align: center;
+  }
+  .SecondBacgrdAbouUs{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/Crypto-11.png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+    color: rgb(221, 221, 221);
+    margin-top: -10px;
+  }
+  .LuxeAutoChain{
+    font-weight: 300;
+    padding-left: 200px;
+    padding-right: 50px;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 350px;
+  }
+  .OurMissionCars{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 50px;
+    padding-left: 60px;
+  }
+  .ourMissionCarImg{
+    width: 580px;
+    margin-top: -120px;
+  }
+  .divOfBoxes{
+    display: flex;
+    gap: 20px;
+    padding-bottom: 100px;
+     padding-left: 10px;
+     background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+     background-size: 650px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+     color: rgb(189, 185, 185);
+   }
+   .box1{
+    height: 350px;
+    width: 370px;
+    border: none !important;
+    padding-left: 20px;
+    padding-top: 10px;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    }
+    .ourValCarImg{
+      width: 350px;
+      margin-top: 20px;
+    }
+    .TransparencyWord{
+      background: linear-gradient(to right, #f32170, 
+      #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 35px;
+    font-weight: 600;
+    }
+    .TransparencyWord1{
+      font-weight: 400;
+      margin-top: 15px;
+      width: 350px;
+      font-size: 21px;
+    }
+   .JoinUsImg{
+    width:833px;
+    margin-top: -180px;
+  }
+  .JoinUSSiMg{
+    width: 833px;
+  }
+  .SeasonedLuxury{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.52), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242125\ 1.png");
+    /* background-size: 900px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+  }
+  .SeasonedLuxuryText{
+    font-size: 35px;
+    font-weight: 400;
+    width: 800px;
+  }
+  .ourMissionPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 50px;
+  font-weight: 600;
+  }
+  .HowLUXEAUTOSWorksrWords{
+    font-size: 22px;
+    font-weight: 400;
+  }
+  .HowItWorksTop{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    display: grid;
+    gap: 30px;
+    padding-left: 40px;
+  }
+  .HowItWorksTopCarImg{
+    width: 500px;
+ 
+  
+  }
+  .HowLUXEAUTOSWorks{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    padding-left: 83px;
+    padding-top: 50px;
+  }
+  .OneBox{
+    width: 450px;
+    border-radius: 15px;
+    height: 65px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(207, 207, 207);
+    color: black;
+  }
+  .OneNumBox{
+    padding-top: 10px;
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+    color: black;
+    height: 65px;
+    width: 70px;
+    border-radius: 15px;
+  }
+  .firstBox{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .ContctUsNavBg{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242136\ 1.png");
+   /* background-image: url("./img/Mask\ group.png"); */
+   background-size: cover;
+   text-align: center;
+  }
+  .wedLoveToHear{
+    padding-top: 100px;
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 60px;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    
+  }
+  .wedLoveToHearText{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 43px;
+  font-weight: 600;
+  }
+  .wedLoveToHearText1{
+    font-size: 22px;
+    font-weight: 300;
+  }
+  .contactDivFlex2{
+    padding-left: 2px;
+    display: grid;
+    gap: 20px;
+    margin-top: px;
+  }
+  .FullName{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 300px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  
+  }
+  .TicId{
+    font-size: 30px;
+    color: white;
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    width: 518px;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 500px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  }
+  ::placeholder{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(231, 230, 230);
+  font-weight: 500;
+  }
+  .welovedtoheardiv{
+    display: grid;
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width :800px) {
+  .discvrTheEpitome{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-weight: 900;
+  font-size: 65px;
+  }
+  .explreTheExqui{
+    color: white;
+    font-weight: 300;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .exploreNow{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 40px;
+  font-weight: 600;
+    border: 3px solid;
+    width: 400px;
+    margin-left: 180px;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .sevenStarImg{
+    width: 60px;
+    height: 80px;
+  }
+  .gainingTrust{
+    display: flex;
+    background-color: rgb(15, 9, 28);
+    gap: 10px;
+    padding-left: 10px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .secondBackgrnd{
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 50px;
+  }
+  .sellCarImg{
+    width: 600px;
+   margin-top: -50px;
+  }
+  .featuredCars{
+    font-weight: 900;
+    font-size: 34px;
+  }
+  .carPriceImg{
+    width: 230px;
+    padding-bottom: 200px;
+  }
+  .popop{
+    background-image: url("./img//Crypto-15.png"); 
+      background-size: 680px;
+      padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  .featuredCarsDivs{
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+    width: 310px;
+    margin-bottom: 15px;
+    padding-top: 40px;
+  }
+  .partnersDiv{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    padding-top: 200px;
+    background-color: black;
+    padding-left: 60px;
+    background-size: 900px;
+  }
+  .partnerImg{
+    width: 110px;
+  }
+  .sellYourLuxuryCars{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    margin-top: -10px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 1px;
+    padding-left: 100px;
+  }
+  .sellYourLuxuryCarsText{
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 400px;
+  }
+  .sellYourCarWords{
+    font-size: 25px;
+    font-weight: 300;
+  }
+  .needSupportWord1{
+    font-size: 35px;
+  }
+  .needSupportWord2{
+    font-weight: 200;
+    font-size: 20px;
+  }
+  .contactDivFlex{
+    padding-left: 250px;
+    display: grid;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .contactDiv{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 320px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .horizontalLine{
+    background-color: rgb(148, 136, 136);
+     width: 740px;
+     margin-top: 40px;
+     height: 5px;
+     margin-left: 30px;
+   }
+   .thingsWeDo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 28px;
+    padding-left: 30px;
+    text-align: left;
+  }
+  .Copyrighttt{
+    display: flex;
+    gap: 30px;
+    background-color: white;
+    color: black;
+    height: 100px;
+    padding-left: 70px;
+    padding-top: 40px;
+  }
+  .longNote{
+    font-size: 20px;
+    padding-left: 30px;
+    margin-top: 20px;
+    font-weight: 200;
+    width: 720px;
+  }
+  .secondOne{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+     url("./img/pexels-albin-berlin-919073\ 1.png");
+    background-size: cover;
+    text-align: center;
+  }
+  .SecondBacgrdAbouUs{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/Crypto-11.png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+    color: rgb(221, 221, 221);
+    margin-top: -10px;
+  }
+  .LuxeAutoChain{
+    font-weight: 300;
+    padding-left: 200px;
+    padding-right: 50px;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 350px;
+  }
+  .OurMissionCars{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 50px;
+    padding-left: 60px;
+  }
+  .ourMissionCarImg{
+    width: 580px;
+    margin-top: -120px;
+  }
+  .divOfBoxes{
+    display: flex;
+    gap: 20px;
+    padding-bottom: 100px;
+     padding-left: 10px;
+     background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+     background-size: 650px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+     color: rgb(189, 185, 185);
+   }
+   .box1{
+    height: 350px;
+    width: 370px;
+    border: none !important;
+    padding-left: 20px;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    }
+    .ourValCarImg{
+      width: 350px;
+      margin-top: 20px;
+    }
+    .TransparencyWord{
+      background: linear-gradient(to right, #f32170, 
+      #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 35px;
+    font-weight: 600;
+    }
+    .TransparencyWord1{
+      font-weight: 400;
+      margin-top: 15px;
+      width: 350px;
+      font-size: 21px;
+    }
+   .JoinUsImg{
+    width:800px;
+    margin-top: -180px;
+  }
+  .JoinUSSiMg{
+    width: 800px;
+  }
+  .SeasonedLuxury{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.52), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242125\ 1.png");
+    /* background-size: 900px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+  }
+  .SeasonedLuxuryText{
+    font-size: 35px;
+    font-weight: 400;
+    width: 700px;
+  }
+  .ourMissionPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 50px;
+  font-weight: 600;
+  }
+  .HowLUXEAUTOSWorksrWords{
+    font-size: 22px;
+    font-weight: 400;
+  }
+  .HowItWorksTop{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    display: grid;
+    gap: 30px;
+    padding-left: 40px;
+  }
+  .HowItWorksTopCarImg{
+    width: 500px;
+ 
+  
+  }
+  .HowLUXEAUTOSWorks{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    padding-left: 74px;
+    padding-top: 50px;
+  }
+  .OneBox{
+    width: 450px;
+    border-radius: 15px;
+    height: 65px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(207, 207, 207);
+    color: black;
+  }
+  .OneNumBox{
+    padding-top: 10px;
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+    color: black;
+    height: 65px;
+    width: 70px;
+    border-radius: 15px;
+  }
+  .firstBox{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .ContctUsNavBg{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242136\ 1.png");
+   /* background-image: url("./img/Mask\ group.png"); */
+   background-size: cover;
+   text-align: center;
+  }
+  .wedLoveToHear{
+    padding-top: 100px;
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 60px;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    
+  }
+  .wedLoveToHearText{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 43px;
+  font-weight: 600;
+  }
+  .wedLoveToHearText1{
+    font-size: 23px;
+    font-weight: 300;
+  }
+  .contactDivFlex2{
+    padding-left: 2px;
+    display: grid;
+    gap: 20px;
+    margin-top: px;
+  }
+  .FullName{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 300px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  
+  }
+  .TicId{
+    font-size: 30px;
+    color: white;
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    width: 518px;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 500px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  }
+  ::placeholder{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(231, 230, 230);
+  font-weight: 500;
+  }
+  .welovedtoheardiv{
+    display: grid;
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width :768px) {
+  .firstOne{
+  
+    background-image:  linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Mask\ group\ \(1\).png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: cover;
+    text-align: center;
+  }
+  .discvrTheEpitome{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-weight: 900;
+  font-size: 65px;
+  }
+  .explreTheExqui{
+    color: white;
+    font-weight: 300;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .exploreNow{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 40px;
+  font-weight: 600;
+    border: 3px solid;
+    width: 400px;
+    margin-left: 180px;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .sevenStarImg{
+    width: 60px;
+    height: 80px;
+  }
+  .gainingTrust{
+    display: flex;
+    background-color: rgb(15, 9, 28);
+    gap: 10px;
+    padding-left: 10px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .secondBackgrnd{
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 50px;
+  }
+  .sellCarImg{
+    width: 600px;
+   margin-top: -50px;
+  }
+  .featuredCars{
+    font-weight: 900;
+    font-size: 34px;
+  }
+  .carPriceImg{
+    width: 230px;
+    padding-bottom: 200px;
+  }
+  .popop{
+    background-image: url("./img//Crypto-15.png"); 
+      background-size: 680px;
+      padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  .featuredCarsDivs{
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+    width: 310px;
+    margin-bottom: 15px;
+    padding-top: 40px;
+  }
+  .partnersDiv{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    padding-top: 200px;
+    background-color: black;
+    padding-left: 60px;
+    background-size: 900px;
+  }
+  .partnerImg{
+    width: 110px;
+  }
+  .sellYourLuxuryCars{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    margin-top: -10px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 1px;
+    padding-left: 100px;
+  }
+  .sellYourLuxuryCarsText{
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 400px;
+  }
+  .sellYourCarWords{
+    font-size: 25px;
+    font-weight: 300;
+  }
+  .needSupportWord1{
+    font-size: 35px;
+  }
+  .needSupportWord2{
+    font-weight: 200;
+    font-size: 20px;
+  }
+  .contactDivFlex{
+    padding-left: 250px;
+    display: grid;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .contactDiv{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 320px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .horizontalLine{
+    background-color: rgb(148, 136, 136);
+     width: 720px;
+     margin-top: 40px;
+     height: 5px;
+     margin-left: 30px;
+   }
+   .thingsWeDo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 27px;
+    padding-left: 20px;
+    text-align: left;
+  }
+  .NSW{
+    font-size: 17px;
+  }
+  .Copyrighttt{
+    display: flex;
+    gap: 30px;
+    background-color: white;
+    color: black;
+    height: 100px;
+    padding-left: 70px;
+    padding-top: 40px;
+  }
+  .longNote{
+    font-size: 20px;
+    padding-left: 30px;
+    margin-top: 20px;
+    font-weight: 200;
+    width: 720px;
+  }
+  .secondOne{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+     url("./img/pexels-albin-berlin-919073\ 1.png");
+    background-size: cover;
+    text-align: center;
+  }
+  .SecondBacgrdAbouUs{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/Crypto-11.png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+    color: rgb(221, 221, 221);
+    margin-top: -10px;
+  }
+  .LuxeAutoChain{
+    font-weight: 300;
+    padding-left: 200px;
+    padding-right: 50px;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 350px;
+  }
+  .OurMissionCars{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 50px;
+    padding-left: 60px;
+  }
+  .ourMissionCarImg{
+    width: 580px;
+    margin-top: -120px;
+  }
+  .divOfBoxes{
+    display: flex;
+    gap: 10px;
+    padding-bottom: 100px;
+     padding-left: 10px;
+     background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+     background-size: 650px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+     color: rgb(189, 185, 185);
+   }
+   .box1{
+    height: 370px;
+    width: 350px;
+    border: none !important;
+    padding-left: 20px;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    }
+    .ourValCarImg{
+      width: 350px;
+      margin-top: 20px;
+    }
+    .TransparencyWord{
+      background: linear-gradient(to right, #f32170, 
+      #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 35px;
+    font-weight: 600;
+    }
+    .TransparencyWord1{
+      font-weight: 400;
+      margin-top: 15px;
+      width: 320px;
+      font-size: 21px;
+    }
+   .JoinUsImg{
+    width:768px;
+    margin-top: -180px;
+  }
+  .JoinUSSiMg{
+    width: 768px;
+  }
+  .SeasonedLuxury{
+    background-image: linear-gradient(to bottom, rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242125\ 1.png");
+    /* background-size: 900px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+  }
+  .SeasonedLuxuryText{
+    font-size: 35px;
+    font-weight: 300;
+    width: 700px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .ourMissionPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 50px;
+  font-weight: 600;
+  }
+  .HowLUXEAUTOSWorksrWords{
+    font-size: 22px;
+    font-weight: 400;
+  }
+  .HowItWorksTop{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    display: grid;
+    gap: 30px;
+    padding-left: 40px;
+  }
+  .HowItWorksTopCarImg{
+    width: 500px;
+ 
+  
+  }
+  .HowLUXEAUTOSWorks{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    padding-left: 74px;
+    padding-top: 50px;
+  }
+  .OneBox{
+    width: 450px;
+    border-radius: 15px;
+    height: 65px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(207, 207, 207);
+    color: black;
+  }
+  .OneNumBox{
+    padding-top: 10px;
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+    color: black;
+    height: 65px;
+    width: 70px;
+    border-radius: 15px;
+  }
+  .firstBox{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .ContctUsNavBg{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242136\ 1.png");
+   /* background-image: url("./img/Mask\ group.png"); */
+   background-size: cover;
+   text-align: center;
+  }
+  .wedLoveToHear{
+    padding-top: 100px;
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 60px;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    
+  }
+  .wedLoveToHearText{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 43px;
+  font-weight: 600;
+  }
+  .wedLoveToHearText1{
+    font-size: 23px;
+    font-weight: 300;
+  }
+  .contactDivFlex2{
+    padding-left: 2px;
+    display: grid;
+    gap: 20px;
+    margin-top: px;
+  }
+  .FullName{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 300px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  
+  }
+  .TicId{
+    font-size: 30px;
+    color: white;
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    width: 518px;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 500px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  }
+  ::placeholder{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(231, 230, 230);
+  font-weight: 500;
+  }
+  .welovedtoheardiv{
+    display: grid;
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width :688px) {
+  .firstOne{
+  
+    background-image:  linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Mask\ group\ \(1\).png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: cover;
+    text-align: center;
+  }
+  .discvrTheEpitome{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-weight: 900;
+  font-size: 55px;
+  }
+  .explreTheExqui{
+    color: white;
+    font-weight: 300;
+    font-size: 21px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .exploreNow{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 40px;
+  font-weight: 600;
+    border: 3px solid;
+    width: 330px;
+    margin-top: 20px;
+    margin-left: 180px;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .sevenStarImg{
+    width: 60px;
+    height: 80px;
+  }
+  .gainingTrust{
+    display: flex;
+    background-color: rgb(15, 9, 28);
+    gap: 10px;
+    padding-left: 10px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .secondBackgrnd{
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+  }
+  .sellCarImg{
+    width: 600px;
+   margin-top: -50px;
+   margin-left: -30px;
+  }
+  .featuredCars{
+    font-weight: 900;
+    font-size: 32px;
+  }
+  .carPriceImg{
+    width: 210px;
+    padding-bottom: 200px;
+  }
+  .popop{
+    background-image: url("./img//Crypto-15.png"); 
+      background-size: 680px;
+      padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  .featuredCarsDivs{
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+    width: 300px;
+    margin-bottom: 15px;
+    padding-top: 40px;
+  }
+  .partnersDiv{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    padding-top: 200px;
+    background-color: black;
+    padding-left: 40px;
+    background-size: 900px;
+  }
+  .partnerImg{
+    width: 105px;
+  }
+  .sellYourLuxuryCars{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    margin-top: -10px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 1px;
+    padding-left: 50px;
+  }
+  .sellYourLuxuryCarsText{
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 400px;
+  }
+  .sellYourCarWords{
+    font-size: 25px;
+    font-weight: 300;
+  }
+  .needSupportWord1{
+    font-size: 33px;
+  }
+  .needSupportWord2{
+    font-weight: 200;
+    font-size: 20px;
+  }
+  .contactDivFlex{
+    padding-left: 180px;
+    display: grid;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .contactDiv{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 320px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .horizontalLine{
+    background-color: rgb(148, 136, 136);
+     width: 650px;
+     margin-top: 40px;
+     height: 5px;
+     margin-left: 30px;
+   }
+   .thingsWeDo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 27px;
+    padding-left: 20px;
+    text-align: left;
+  }
+  .NSW{
+    font-size: 17px;
+  }
+  .Copyrighttt{
+    display: flex;
+    gap: 20px;
+    background-color: white;
+    color: black;
+    height: 100px;
+    padding-left: 50px;
+    padding-top: 40px;
+  }
+  .longNote{
+    font-size: 20px;
+    padding-left: 30px;
+    margin-top: 20px;
+    font-weight: 200;
+    width: 680px;
+  }
+  .secondOne{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+     url("./img/pexels-albin-berlin-919073\ 1.png");
+    background-size: cover;
+    text-align: center;
+  }
+  .SecondBacgrdAbouUs{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/Crypto-11.png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+    color: rgb(221, 221, 221);
+    margin-top: -10px;
+  }
+  .LuxeAutoChain{
+    font-weight: 300;
+    padding-left: 200px;
+    padding-right: 50px;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 350px;
+  }
+  .OurMissionCars{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 50px;
+    padding-left: 60px;
+  }
+  .ourMissionCarImg{
+    width: 580px;
+    margin-top: -120px;
+  }
+  .divOfBoxes{
+    display: flex;
+    gap: 10px;
+    padding-bottom: 100px;
+     padding-left: 10px;
+     background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+     background-size: 650px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+     color: rgb(189, 185, 185);
+   }
+   .box1{
+    height: 390px;
+    width: 320px;
+    border: none !important;
+    padding-left: 20px;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    }
+    .ourValCarImg{
+      width: 350px;
+      margin-top: 20px;
+    }
+    .TransparencyWord{
+      background: linear-gradient(to right, #f32170, 
+      #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 33px;
+    font-weight: 600;
+    }
+    .TransparencyWord1{
+      font-weight: 400;
+      margin-top: 15px;
+      width: 280px;
+      font-size: 21px;
+    }
+   .JoinUsImg{
+    width:687px;
+    margin-top: -180px;
+  }
+  .JoinUSSiMg{
+    width: 687px;
+  }
+  .SeasonedLuxury{
+    background-image: linear-gradient(to bottom, rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242125\ 1.png");
+    /* background-size: 900px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+  }
+  .SeasonedLuxuryText{
+    font-size: 35px;
+    font-weight: 300;
+    width: 650px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .ourMissionPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 45px;
+  font-weight: 600;
+  }
+  .HowLUXEAUTOSWorksrWords{
+    font-size: 20px;
+    font-weight: 300;
+  }
+  .HowItWorksTop{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    display: grid;
+    gap: 30px;
+    padding-left: 30px;
+  }
+  .HowItWorksTopCarImg{
+    width: 500px;
+ 
+  
+  }
+  .HowLUXEAUTOSWorks{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    padding-left: 50px;
+    padding-top: 50px;
+  }
+  .OneBox{
+    width: 450px;
+    border-radius: 15px;
+    height: 60px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 15px;
+    background-color: rgb(207, 207, 207);
+    color: black;
+  }
+  .OneNumBox{
+    padding-top: 15px;
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+    color: black;
+    height: 60px;
+    width: 52px;
+    border-radius: 15px;
+  }
+  .firstBox{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .ContctUsNavBg{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242136\ 1.png");
+   /* background-image: url("./img/Mask\ group.png"); */
+   background-size: cover;
+   text-align: center;
+  }
+  .wedLoveToHear{
+    padding-top: 100px;
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 60px;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    
+  }
+  .wedLoveToHearText{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 43px;
+  font-weight: 600;
+  }
+  .wedLoveToHearText1{
+    font-size: 23px;
+    width: 600px;
+    font-weight: 300;
+  }
+  .contactDivFlex2{
+    padding-left: 2px;
+    display: grid;
+    gap: 20px;
+    margin-top: px;
+  }
+  .FullName{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 300px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  
+  }
+  .TicId{
+    font-size: 30px;
+    color: white;
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    width: 518px;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 500px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  }
+  ::placeholder{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(231, 230, 230);
+  font-weight: 500;
+  }
+  .welovedtoheardiv{
+    display: grid;
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width :600px) {
+  .firstOne{
+    background-image:  linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Mask\ group\ \(1\).png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: cover;
+    text-align: center;
+  }
+  .discvrTheEpitome{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-weight: 900;
+  font-size: 50px;
+  }
+  .explreTheExqui{
+    color: white;
+    font-weight: 300;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .exploreNow{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+   -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 40px;
+    font-weight: 600;
+    border: 3px solid;
+    width: 320px;
+    margin-top: 20px;
+    margin-left: 140px;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .sevenStarImg{
+    width: 60px;
+    height: 80px;
+  }
+  .gainingTrust{
+    display: flex;
+    background-color: rgb(15, 9, 28);
+    gap: 10px;
+    padding-left: 10px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .secondBackgrnd{
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+  }
+  .sellCarImg{
+    width: 600px;
+   margin-top: -50px;
+   margin-left: -60px;
+  }
+  .featuredCars{
+    font-weight: 900;
+    font-size: 32px;
+  }
+  .carPriceImg{
+    width: 180px;
+    padding-bottom: 200px;
+  }
+  .popop{
+    background-image: url("./img//Crypto-15.png"); 
+      background-size: 680px;
+      padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  .featuredCarsDivs{
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+    width: 300px;
+    margin-bottom: 15px;
+    padding-top: 40px;
+  }
+  .partnersDiv{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    padding-top: 200px;
+    background-color: black;
+    padding-left: 40px;
+    background-size: 900px;
+  }
+  .partnerImg{
+    width: 90px;
+  }
+  .sellYourLuxuryCars{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    margin-top: -10px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 1px;
+    padding-left: 50px;
+  }
+  .sellYourLuxuryCarsText{
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 400px;
+  }
+  .sellYourCarWords{
+    font-size: 25px;
+    font-weight: 300;
+    width: 500px;
+  }
+  .needSupportWord1{
+    font-size: 33px;
+  }
+  .needSupportWord2{
+    font-weight: 200;
+    font-size: 20px;
+  }
+  .contactDivFlex{
+    padding-left: 135px;
+    display: grid;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .contactDiv{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 320px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .horizontalLine{
+    background-color: rgb(148, 136, 136);
+     width: 550px;
+     margin-top: 40px;
+     height: 5px;
+     margin-left: 30px;
+   }
+   .thingsWeDo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 27px;
+    padding-left: 20px;
+    text-align: left;
+  }
+  .NSW{
+    font-size: 17px;
+  }
+  .Copyrighttt{
+    display: flex;
+    gap: 20px;
+    background-color: white;
+    color: black;
+    height: 100px;
+    padding-left: 50px;
+    padding-top: 40px;
+  }
+  .longNote{
+    font-size: 20px;
+    padding-left: 30px;
+    margin-top: 20px;
+    font-weight: 200;
+    width: 550px;
+  }
+  .secondOne{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+     url("./img/pexels-albin-berlin-919073\ 1.png");
+    background-size: cover;
+    text-align: center;
+  }
+
+  .aboutLuxeAutos{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-weight: 900;
+    font-size: 57px;
+    margin-top: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .SecondBacgrdAbouUs{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/Crypto-11.png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+    color: rgb(221, 221, 221);
+    margin-top: -10px;
+  }
+  .LuxeAutoChain{
+    font-weight: 300;
+    padding-left: 100px;
+    padding-right: 50px;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 350px;
+  }
+  .OurMissionCars{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 50px;
+    padding-left: 50px;
+  }
+  .ourMissionCarImg{
+    width: 580px;
+    margin-top: -120px;
+    margin-left: -50px;
+  }
+  .divOfBoxes{
+    display: grid;
+    gap: 10px;
+    padding-bottom: 100px;
+     padding-left: 100px;
+     background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+     background-size: 620px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+     color: rgb(189, 185, 185);
+   }
+   .box1{
+    height: 320px;
+    width: 420px;
+    border: none !important;
+    padding-left: 20px;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    }
+    .ourValCarImg{
+      width: 380px;
+      margin-top: 20px;
+    }
+    .TransparencyWord{
+      background: linear-gradient(to right, #f32170, 
+      #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 33px;
+    font-weight: 600;
+    }
+    .TransparencyWord1{
+      font-weight: 400;
+      margin-top: 15px;
+      width: 380px;
+      font-size: 21px;
+    }
+   .JoinUsImg{
+    width:599px;
+    margin-top: -150px;
+  }
+  .JoinUSSiMg{
+    width: 599px;
+  }
+  .SeasonedLuxury{
+    background-image: linear-gradient(to bottom, rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242125\ 1.png");
+    /* background-size: 900px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+  }
+  .SeasonedLuxuryText{
+    font-size: 27px;
+    font-weight: 300;
+    width: 570px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .ourMissionPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 45px;
+  font-weight: 600;
+  }
+  .HowLUXEAUTOSWorksrWords{
+    font-size: 20px;
+    font-weight: 300;
+    width: 550px;
+  }
+  .HowItWorksTop{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    display: grid;
+    gap: 30px;
+    padding-left: 30px;
+  }
+  .HowItWorksTopCarImg{
+    width: 450px;
+ 
+  
+  }
+  .HowLUXEAUTOSWorks{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    padding-left: 20px;
+    padding-top: 50px;
+  }
+  .HowLUXEAUTOSWorks2{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+  }
+  .OneBox{
+    width: 420px;
+    border-radius: 15px;
+    height: 60px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 15px;
+    background-color: rgb(207, 207, 207);
+    color: black;
+  }
+  .OneNumBox{
+    padding-top: 15px;
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+    color: black;
+    height: 60px;
+    width: 52px;
+    border-radius: 15px;
+  }
+  .firstBox{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .ContctUsNavBg{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242136\ 1.png");
+   /* background-image: url("./img/Mask\ group.png"); */
+   background-size: cover;
+   text-align: center;
+  }
+  .wedLoveToHear{
+    padding-top: 100px;
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    
+  }
+  .wedLoveToHearText{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 43px;
+  font-weight: 600;
+  }
+  .wedLoveToHearText1{
+    font-size: 23px;
+    width: 520px;
+    font-weight: 300;
+  }
+  .contactDivFlex2{
+    padding-left: 2px;
+    display: grid;
+    gap: 20px;
+    margin-top: px;
+  }
+  .FullName{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 300px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  
+  }
+  .TicId{
+    font-size: 30px;
+    color: white;
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    width: 518px;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 500px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  }
+  ::placeholder{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(231, 230, 230);
+  font-weight: 500;
+  }
+  .welovedtoheardiv{
+    display: grid;
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width :414px) {
+  .firstOne{
+    background-image:  linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Mask\ group\ \(1\).png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: cover;
+    text-align: center;
+  }
+  .discvrTheEpitome{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-weight: 900;
+  font-size: 47px;
+  }
+  .explreTheExqui{
+    color: white;
+    font-weight: 300;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .exploreNow{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+   -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 32px;
+    font-weight: 600;
+    border: 3px solid;
+    width: 260px;
+    margin-top: 20px;
+    margin-left: 75px;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .sevenStarImg{
+    width: 75px;
+    height: 80px;
+  }
+  .gainingTrust{
+    display: grid;
+    background-color: rgb(15, 9, 28);
+    gap: 10px;
+    padding-left: 30px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .secondBackgrnd{
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+  }
+  .carImgDiv{
+    display: grid;
+  }
+  .sellCarImg{
+    width: 450px;
+   margin-top: -50px;
+   margin-left: -70px;
+  }
+  .featuredCars{
+    font-weight: 900;
+    font-size: 32px;
+  }
+  .carPriceImg{
+    width: 300px;
+    padding-bottom: 20px;
+  }
+  .luxeAutoPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 30px;
+  font-weight: 600;
+  }
+  .popop{
+    background-image: url("./img//Crypto-15.png"); 
+      background-size: 680px;
+      padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  .featuredCarsDivs{
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+    width: 300px;
+    margin-bottom: 15px;
+    padding-top: 40px;
+  }
+  .partnersDiv{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    padding-top: 200px;
+    background-color: black;
+    padding-left: 30px;
+    background-size: 900px;
+  }
+  .partnerImg{
+    width: 110px;
+  }
+  .partnersImgDiv{
+    margin-bottom: 10px;
+    display: grid;
+  }
+  .partnerimgDiv22{
+    display: flex;
+  }
+  .sellYourLuxuryCars{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    margin-top: -10px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 1px;
+    padding-left: 30px;
+  }
+  .sellYourLuxuryCarsText{
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 400px;
+  }
+  .sellYourCarWords{
+    font-size: 25px;
+    font-weight: 300;
+    width: 380px;
+  }
+  .getStarted{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 35px;
+  font-weight: 600;
+    border: 3px solid;
+    width: 320px;
+    margin-top: 20px;
+    text-align: center;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .needSupportWord1{
+    font-size: 33px;
+  }
+  .needSupportWord2{
+    font-weight: 200;
+    font-size: 20px;
+  }
+  .contactDivFlex{
+    padding-left: 50px;
+    display: grid;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .contactDiv{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 320px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .horizontalLine{
+    background-color: rgb(148, 136, 136);
+     width: 380px;
+     margin-top: 40px;
+     height: 5px;
+     margin-left: 10px;
+   }
+   .thingsWeDo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 27px;
+    padding-left: 20px;
+    text-align: left;
+  }
+  .oooo{
+    font-size: 15px;
+  }
+  .NSW{
+    width: 360px;
+    padding-left: 10px;
+    font-size: 17px;
+  }
+  .Copyrighttt{
+    display: flex;
+    gap: 10px;
+    background-color: white;
+    color: black;
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 40px;
+  }
+  .longNote{
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 20px;
+    font-weight: 200;
+    width: 380px;
+  }
+  .secondOne{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+     url("./img/pexels-albin-berlin-919073\ 1.png");
+    background-size: cover;
+    text-align: center;
+  }
+
+  .aboutLuxeAutos{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-weight: 900;
+    font-size: 57px;
+    margin-top: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .SecondBacgrdAbouUs{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/Crypto-11.png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+    color: rgb(221, 221, 221);
+    margin-top: -10px;
+  }
+  .LuxeAutoChain{
+    font-weight: 300;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 350px;
+  }
+  .OurMissionCars{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 50px;
+    padding-left: 20px;
+  }
+  .ourMissionCarImg{
+    width: 450px;
+    margin-top: -120px;
+    margin-left: -50px;
+  }
+  .divOfBoxes{
+    display: grid;
+    gap: 10px;
+    padding-bottom: 100px;
+     padding-left: 30px;
+     background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+     background-size: 620px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+     color: rgb(189, 185, 185);
+   }
+   .box1{
+    height: 320px;
+    width: 360px;
+    border: none !important;
+    padding-left: 20px;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    }
+    .ourValCarImg{
+      width: 350px;
+      margin-top: 20px;
+    }
+    .TransparencyWord{
+      background: linear-gradient(to right, #f32170, 
+      #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 33px;
+    font-weight: 600;
+    }
+    .TransparencyWord1{
+      font-weight: 400;
+      margin-top: 15px;
+      width: 330px;
+      font-size: 21px;
+    }
+   .JoinUsImg{
+    width:412px;
+    margin-top: -110px;
+  }
+  .JoinUSSiMg{
+    width: 412px;
+  }
+  .SeasonedLuxury{
+    background-image: linear-gradient(to bottom, rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242125\ 1.png");
+    /* background-size: 900px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+  }
+  .SeasonedLuxuryText{
+    font-size: 27px;
+    font-weight: 300;
+    width: 370px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .ourMissionPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 40px;
+  width: 400px;
+  font-weight: 600;
+  }
+  .HowLUXEAUTOSWorksrWords{
+    font-size: 20px;
+    font-weight: 300;
+    width: 390px;
+  }
+  .HowItWorksTop{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    display: grid;
+    gap: 30px;
+    padding-left: 10px;
+  }
+  .HowItWorksTopCarImg{
+    margin-top: 5px;
+    width: 350px;
+ 
+  
+  }
+  .HowLUXEAUTOSWorks{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    padding-left: 20px;
+    padding-top: 50px;
+  }
+  .HowLUXEAUTOSWorks2{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+  }
+  .OneBox{
+    width: 420px;
+    border-radius: 15px;
+    height: 70px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 15px;
+    background-color: rgb(207, 207, 207);
+    color: black;
+  }
+  .OneNumBox{
+    padding-top: 15px;
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+    color: black;
+    height: 60px;
+    width: 52px;
+    border-radius: 15px;
+  }
+  .firstBox{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .ContctUsNavBg{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242136\ 1.png");
+   /* background-image: url("./img/Mask\ group.png"); */
+   background-size: cover;
+   text-align: center;
+  }
+  .wedLoveToHear{
+    padding-top: 100px;
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    
+  }
+  .wedLoveToHearText{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 43px;
+  font-weight: 600;
+  }
+  .wedLoveToHearText1{
+    font-size: 23px;
+    width: 380px;
+    font-weight: 300;
+  }
+  .contactDivFlex2{
+    padding-left: 2px;
+    display: grid;
+    gap: 20px;
+    margin-top: px;
+  }
+  .FullName{
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 350px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  
+  }
+  .TicId{
+    font-size: 30px;
+    color: white;
+    width: 350px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    width: 350px;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 350px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  }
+  ::placeholder{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(231, 230, 230);
+  font-weight: 500;
+  }
+  .welovedtoheardiv{
+    display: grid;
+    gap: 20px;
+  }
+}
+
+
+@media screen and (max-width :412px) {
+  .firstOne{
+    background-image:  linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Mask\ group\ \(1\).png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: cover;
+    text-align: center;
+  }
+  .discvrTheEpitome{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-weight: 900;
+  font-size: 47px;
+  }
+  .explreTheExqui{
+    color: white;
+    font-weight: 300;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .exploreNow{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+   -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 32px;
+    font-weight: 600;
+    border: 3px solid;
+    width: 260px;
+    margin-top: 20px;
+    margin-left: 75px;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .sevenStarImg{
+    width: 75px;
+    height: 80px;
+  }
+  .gainingTrust{
+    display: grid;
+    background-color: rgb(15, 9, 28);
+    gap: 10px;
+    padding-left: 30px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .secondBackgrnd{
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+  }
+  .carImgDiv{
+    display: grid;
+  }
+  .sellCarImg{
+    width: 450px;
+   margin-top: -50px;
+   margin-left: -70px;
+  }
+  .featuredCars{
+    font-weight: 900;
+    font-size: 32px;
+  }
+  .carPriceImg{
+    width: 300px;
+    padding-bottom: 20px;
+  }
+  .luxeAutoPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 30px;
+  font-weight: 600;
+  }
+  .popop{
+    background-image: url("./img//Crypto-15.png"); 
+      background-size: 680px;
+      padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  .featuredCarsDivs{
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+    width: 300px;
+    margin-bottom: 15px;
+    padding-top: 40px;
+  }
+  .partnersDiv{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    padding-top: 200px;
+    background-color: black;
+    padding-left: 30px;
+    background-size: 900px;
+  }
+  .partnerImg{
+    width: 110px;
+  }
+  .partnersImgDiv{
+    margin-bottom: 10px;
+    display: grid;
+  }
+  .partnerimgDiv22{
+    display: flex;
+  }
+  .sellYourLuxuryCars{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    margin-top: -10px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 1px;
+    padding-left: 30px;
+  }
+  .sellYourLuxuryCarsText{
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 400px;
+  }
+  .sellYourCarWords{
+    font-size: 25px;
+    font-weight: 300;
+    width: 380px;
+  }
+  .getStarted{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 35px;
+  font-weight: 600;
+    border: 3px solid;
+    width: 320px;
+    margin-top: 20px;
+    text-align: center;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .needSupportWord1{
+    font-size: 33px;
+  }
+  .needSupportWord2{
+    font-weight: 200;
+    font-size: 20px;
+  }
+  .contactDivFlex{
+    padding-left: 50px;
+    display: grid;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .contactDiv{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 320px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .horizontalLine{
+    background-color: rgb(148, 136, 136);
+     width: 380px;
+     margin-top: 40px;
+     height: 5px;
+     margin-left: 10px;
+   }
+   .thingsWeDo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 27px;
+    padding-left: 20px;
+    text-align: left;
+  }
+  .oooo{
+    font-size: 15px;
+  }
+  .NSW{
+    width: 360px;
+    padding-left: 10px;
+    font-size: 17px;
+  }
+  .Copyrighttt{
+    display: flex;
+    gap: 10px;
+    background-color: white;
+    color: black;
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 40px;
+  }
+  .longNote{
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 20px;
+    font-weight: 200;
+    width: 380px;
+  }
+  .secondOne{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+     url("./img/pexels-albin-berlin-919073\ 1.png");
+    background-size: cover;
+    text-align: center;
+  }
+
+  .aboutLuxeAutos{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-weight: 900;
+    font-size: 57px;
+    margin-top: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .SecondBacgrdAbouUs{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/Crypto-11.png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+    color: rgb(221, 221, 221);
+    margin-top: -10px;
+  }
+  .LuxeAutoChain{
+    font-weight: 300;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 350px;
+  }
+  .OurMissionCars{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 50px;
+    padding-left: 20px;
+  }
+  .ourMissionCarImg{
+    width: 450px;
+    margin-top: -120px;
+    margin-left: -50px;
+  }
+  .divOfBoxes{
+    display: grid;
+    gap: 10px;
+    padding-bottom: 100px;
+     padding-left: 30px;
+     background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+     background-size: 620px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+     color: rgb(189, 185, 185);
+   }
+   .box1{
+    height: 320px;
+    width: 360px;
+    border: none !important;
+    padding-left: 20px;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    }
+    .ourValCarImg{
+      width: 350px;
+      margin-top: 20px;
+    }
+    .TransparencyWord{
+      background: linear-gradient(to right, #f32170, 
+      #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 33px;
+    font-weight: 600;
+    }
+    .TransparencyWord1{
+      font-weight: 400;
+      margin-top: 15px;
+      width: 330px;
+      font-size: 21px;
+    }
+   .JoinUsImg{
+    width:396px;
+    margin-top: -110px;
+  }
+  .JoinUSSiMg{
+    width: 396px;
+  }
+  .SeasonedLuxury{
+    background-image: linear-gradient(to bottom, rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242125\ 1.png");
+    /* background-size: 900px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+  }
+  .SeasonedLuxuryText{
+    font-size: 27px;
+    font-weight: 300;
+    width: 370px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .ourMissionPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 40px;
+  width: 400px;
+  font-weight: 600;
+  }
+  .HowLUXEAUTOSWorksrWords{
+    font-size: 20px;
+    font-weight: 300;
+    width: 390px;
+  }
+  .HowItWorksTop{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    display: grid;
+    gap: 30px;
+    padding-left: 10px;
+  }
+  .HowItWorksTopCarImg{
+    margin-top: 5px;
+    width: 350px;
+ 
+  
+  }
+  .HowLUXEAUTOSWorks{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    padding-left: 20px;
+    padding-top: 50px;
+  }
+  .HowLUXEAUTOSWorks2{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+  }
+  .OneBox{
+    width: 420px;
+    border-radius: 15px;
+    height: 70px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 15px;
+    background-color: rgb(207, 207, 207);
+    color: black;
+  }
+  .OneNumBox{
+    padding-top: 15px;
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+    color: black;
+    height: 60px;
+    width: 52px;
+    border-radius: 15px;
+  }
+  .firstBox{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .ContctUsNavBg{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242136\ 1.png");
+   /* background-image: url("./img/Mask\ group.png"); */
+   background-size: cover;
+   text-align: center;
+  }
+  .wedLoveToHear{
+    padding-top: 100px;
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    
+  }
+  .wedLoveToHearText{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 43px;
+  font-weight: 600;
+  }
+  .wedLoveToHearText1{
+    font-size: 23px;
+    width: 380px;
+    font-weight: 300;
+  }
+  .contactDivFlex2{
+    padding-left: 2px;
+    display: grid;
+    gap: 20px;
+    margin-top: px;
+  }
+  .FullName{
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 350px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  
+  }
+  .TicId{
+    font-size: 30px;
+    color: white;
+    width: 350px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    width: 350px;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 350px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  }
+  ::placeholder{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(231, 230, 230);
+  font-weight: 500;
+  }
+  .welovedtoheardiv{
+    display: grid;
+    gap: 20px;
+  }
+}
+
+
+
+
+@media screen and (max-width :375px) {
+  .firstOne{
+    background-image:  linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Mask\ group\ \(1\).png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: cover;
+    text-align: center;
+  }
+  .discvrTheEpitome{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-weight: 900;
+  font-size: 47px;
+  }
+  .explreTheExqui{
+    color: white;
+    font-weight: 300;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .exploreNow{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+   -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 32px;
+    font-weight: 600;
+    border: 3px solid;
+    width: 260px;
+    margin-top: 20px;
+    margin-left: 50px;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .sevenStarImg{
+    width: 75px;
+    height: 80px;
+  }
+  .gainingTrust{
+    display: grid;
+    background-color: rgb(15, 9, 28);
+    gap: 10px;
+    padding-left: 10px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .secondBackgrnd{
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+  }
+  .carImgDiv{
+    display: grid;
+  }
+  .sellCarImg{
+    width: 380px;
+   margin-top: -50px;
+   margin-left: -70px;
+  }
+  .featuredCars{
+    font-weight: 900;
+    font-size: 32px;
+  }
+  .carPriceImg{
+    width: 300px;
+    padding-bottom: 20px;
+  }
+  .luxeAutoPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 25px;
+  font-weight: 600;
+  }
+  .popop{
+    background-image: url("./img//Crypto-15.png"); 
+      background-size: 680px;
+      padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  .featuredCarsDivs{
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+    width: 300px;
+    margin-bottom: 15px;
+    padding-top: 40px;
+  }
+  .partnersDiv{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    padding-top: 200px;
+    background-color: black;
+    padding-left: 30px;
+    background-size: 900px;
+  }
+  .partnerImg{
+    width: 100px;
+  }
+  .partnersImgDiv{
+    margin-bottom: 10px;
+    display: grid;
+  }
+  .partnerimgDiv22{
+    display: flex;
+  }
+  .sellYourLuxuryCars{
+    background-image: linear-gradient(to bottom, rgb(1, 4, 31, 0.73),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    margin-top: -10px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 1px;
+    padding-left: 25px;
+  }
+  .sellYourLuxuryCarsText{
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 400px;
+  }
+  .sellYourCarWords{
+    font-size: 25px;
+    font-weight: 300;
+    width: 320px;
+  }
+  .getStarted{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 35px;
+  font-weight: 600;
+    border: 3px solid;
+    width: 280px;
+    margin-top: 20px;
+    text-align: center;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+  .needSupportWord1{
+    font-size: 33px;
+  }
+  .needSupportWord2{
+    font-weight: 200;
+    font-size: 20px;
+  }
+  .contactDivFlex{
+    padding-left: 35px;
+    display: grid;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .contactDiv{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .horizontalLine{
+    background-color: rgb(148, 136, 136);
+     width: 350px;
+     margin-top: 40px;
+     height: 5px;
+     margin-left: 10px;
+   }
+   .thingsWeDo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 20px;
+    padding-left: 20px;
+    text-align: left;
+  }
+  .oooo{
+    font-size: 15px;
+  }
+  .NSW{
+    width: 360px;
+    padding-left: 10px;
+    font-size: 17px;
+  }
+  .Copyrighttt{
+    display: flex;
+    gap: 10px;
+    background-color: white;
+    color: black;
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 40px;
+  }
+  .longNote{
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 20px;
+    font-weight: 200;
+    width: 350px;
+  }
+  .secondOne{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+     url("./img/pexels-albin-berlin-919073\ 1.png");
+    background-size: cover;
+    text-align: center;
+  }
+
+  .aboutLuxeAutos{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-weight: 900;
+    font-size: 50px;
+    margin-top: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .highEndCllct{
+    color: white;
+    font-weight: 300;
+    width: 350px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-bottom: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .SecondBacgrdAbouUs{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/Crypto-11.png");
+    /* background-image: url("./img/Mask\ group.png"); */
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+    color: rgb(221, 221, 221);
+    margin-top: -10px;
+  }
+  .LuxeAutoChain{
+    font-weight: 300;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 350px;
+  }
+  .OurMissionCars{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    display: grid;
+    gap: 50px;
+    padding-left: 20px;
+  }
+  .ourMissionCarImg{
+    width: 450px;
+    margin-top: -120px;
+    margin-left: -50px;
+  }
+  .divOfBoxes{
+    display: grid;
+    gap: 10px;
+    padding-bottom: 100px;
+     padding-left: 20px;
+     background-image: url("./img/png-transparent-archimedean-spiral-circle-line-spiral-spiral-desktop-wallpaper-shape-thumbnail-removebg-preview.png");
+     background-size: 620px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+     color: rgb(189, 185, 185);
+   }
+   .box1{
+    height: 330px;
+    width: 340px;
+    border: none !important;
+    padding-left: 20px;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    }
+    .ourValCarImg{
+      width: 350px;
+      margin-top: 20px;
+    }
+    .TransparencyWord{
+      background: linear-gradient(to right, #f32170, 
+      #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+    font-size: 33px;
+    font-weight: 600;
+    }
+    .TransparencyWord1{
+      font-weight: 400;
+      margin-top: 15px;
+      width: 310px;
+      font-size: 21px;
+    }
+   .JoinUsImg{
+    width:375px;
+    margin-top: -110px;
+  }
+  .JoinUSSiMg{
+    width: 375px;
+  }
+  .SeasonedLuxury{
+    background-image: linear-gradient(to bottom, rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242125\ 1.png");
+    /* background-size: 900px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+  }
+  .SeasonedLuxuryText{
+    font-size: 27px;
+    font-weight: 300;
+    width: 350px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .ourMissionPartners{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 40px;
+  width: 400px;
+  font-weight: 600;
+  }
+  .HowLUXEAUTOSWorksrWords{
+    font-size: 20px;
+    font-weight: 300;
+    width: 390px;
+  }
+  .HowItWorksTop{
+    margin-top: -10px;
+    padding-top: 100px;
+    color: white;
+    display: grid;
+    gap: 30px;
+    padding-left: 10px;
+  }
+  .HowItWorksTopCarImg{
+    margin-top: 5px;
+    width: 350px;
+ 
+  
+  }
+  .HowLUXEAUTOSWorks{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    padding-left: 20px;
+    padding-top: 50px;
+  }
+  .HowLUXEAUTOSWorks2{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+  }
+  .OneBox{
+    width: 420px;
+    border-radius: 15px;
+    height: 70px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 15px;
+    background-color: rgb(207, 207, 207);
+    color: black;
+  }
+  .OneNumBox{
+    padding-top: 15px;
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+    color: black;
+    height: 60px;
+    width: 52px;
+    border-radius: 15px;
+  }
+  .firstBox{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .ContctUsNavBg{
+    background-image: linear-gradient(to bottom, rgba(58, 11, 3, 0.73),rgba(4, 6, 27, 0.73), rgba(0, 0, 0, 0.73)),
+    url("./img/pexels-kaique-rocha-242136\ 1.png");
+   /* background-image: url("./img/Mask\ group.png"); */
+   background-size: cover;
+   text-align: center;
+  }
+  .wedLoveToHear{
+    padding-top: 100px;
+    background-image: linear-gradient(to bottom, rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73)),
+    url("./img/Zy\ 2.png");
+    background-size: 900px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 100px;
+    margin-top: -10px;
+    
+  }
+  .wedLoveToHearText{
+    background: linear-gradient(to right, #f32170, 
+    #ff6b08, #cf23cf, #eedd44); 
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text; 
+  font-size: 43px;
+  font-weight: 600;
+  }
+  .wedLoveToHearText1{
+    font-size: 23px;
+    width: 380px;
+    font-weight: 300;
+  }
+  .contactDivFlex2{
+    padding-left: 2px;
+    display: grid;
+    gap: 20px;
+    margin-top: px;
+  }
+  .FullName{
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 350px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  
+  }
+  .TicId{
+    font-size: 30px;
+    color: white;
+    width: 350px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    width: 350px;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  
+  }
+  .Subject1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 350px;
+    height: 80px;
+    border: 2px solid rgb(9, 10, 20),rgba(4, 6, 27, 0.73), rgba(1, 4, 31, 0.73);
+    background: rgba(255, 255, 255, 0.04);
+  margin-right: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  border-radius: 10px !important;
+  }
+  ::placeholder{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(231, 230, 230);
+  font-weight: 500;
+  }
+  .welovedtoheardiv{
+    display: grid;
+    gap: 20px;
+  }
+}
+
+
+
